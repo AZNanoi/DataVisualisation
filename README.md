@@ -1,2 +1,2 @@
 # DataVisualisation
-Data Visualisation at Dome
+Visualising sensor data from the Dome of Visons
